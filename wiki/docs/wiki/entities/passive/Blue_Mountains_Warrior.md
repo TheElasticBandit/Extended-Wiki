@@ -13,7 +13,7 @@ alias:
 type: entity
 title: Blue Mountains Warrior
 image: entities/blue_mountains_warrior.png
-armor: 0
+armor: 17
 hitpoints: 20
 faction: [Blue Mountains](/Extended-Wiki/wiki/Blue_Mountains_(Faction))
 ::end-infobox
@@ -25,6 +25,10 @@ Blue Mountain Warriors are a common sight across the Blue Mountains. They spawn 
 ## Behavior
 
 Warriors will attack opposing faction npcs as well as players with less than 0 alignment with the [[blue_mountain_faction|Blue Mountains]].
+
+## Equipment
+
+Blue Moutains Warriors are regularily suited up in full Dwarven steel armour, and only few of them can be seen without their helmets, same as the other dwarven units. They are all equipped with a standard Dwarven sword and shield.
 
 ## Hiring
 
