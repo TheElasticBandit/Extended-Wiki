@@ -5,7 +5,6 @@ show:
   - toc
 alias:
   - isengard_faction
-  - isengard_faction
 ---
 
 ####
@@ -26,19 +25,17 @@ alias:
 - [[warg|Isengard_Wargs]] spawn randomly around the Isengard biome and its structures.
 - 
 ## History
-- 1.8.1:
-    - Added Blue Mountains Butchers and Stonemasons
-    - Ported Blue Mountain Axe-Throwers
-- 1.8.0: Initial Blue Mountains feature update
-    - Added Blue Mountain Bartenders
-    - Ported Blue Mountain Smiths, Miners, and Commanders
-- 1.6.1:
-    - Ported Blue Mountains Wandering Trader
+- 1.10.0:
+    - Added Isengard Uruk Smith
+    - Ported Uruk Berserker
+    - Ported Uruk Captain
+    - Added Uruk Supplier
 - Renewed 5.5:
-    - Added Isengard Wargs
+    - Ported Isengard Warg
+    - Ported Isengard Snaga and Snaga Archer
 - Renewed 4.0:
-    - Ported Uruks
+    - Ported Uruk
 
 ## Trivia
 
-- The Blue Mountains completely overhauled underground generation of structures as no previous faction spawned structures underground in a meaningful way.
+- Isengard was the second evil faction to be ported, and the first evil faction to have a lore structure added in the game.
